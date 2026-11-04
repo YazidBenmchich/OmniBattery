@@ -1,0 +1,8 @@
+Designator,Qty,Description,Footprint,Manufacturer,Manufacturer Part,Supplier,Supplier Part,Assembly
+BT1 BT2 BT3,3,21700 cell holder (SMD),KEYSTONE1122,Keystone,1122,Digi-Key,,Hand-soldered (owner stock)
+F1,1,Fuse holder 5x20 mm 10 A (fit 5 A fuse),FUSE-TH_BLX-A-B,XFCN,BLX-A-B,LCSC,C41371862,Hand-soldered
+J1,1,Screw terminal 4-pin 5.08 mm,KF301-4P,,KF301-4P,,,Hand-soldered
+SW1,1,Rocker switch KCD1-11 2-pin,KCD1-11-2P,ReliaPro,601-10111BB,LCSC,C3670,Hand-soldered
+U1 U2,2,LM2596 adjustable buck module (U1 = 5.0 V / U2 = 3.3 V),YAAJ_DCDC_STEPDOWN_LM2596,,LM2596 module,,,Hand-soldered (module)
+U6,1,3S Li-ion BMS module,BMS HX-3S-01,,HX-3S-01,,,Hand-soldered (module)
+-,1,5x20 mm glass fuse 5 A (not on board; fit into F1),-,,,,,Buy separately

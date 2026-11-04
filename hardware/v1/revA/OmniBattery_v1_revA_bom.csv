@@ -1,0 +1,5 @@
+Designator,Qty,Part,Description
+"U3,U4,U5",3,Keystone 1122,21700 cell holder (SMD)
+"U1,U2",2,LM2596 adjustable buck module,DC-DC step-down module; U1 set to 5 V / U2 set to 3.3 V
+X1,1,KF301-4P,4-pin 5.08 mm screw terminal (VBAT / 5V / 3V3 / GND)
+POWER1,1,KCD1-11-2P,2-pin rocker switch in series with pack +
